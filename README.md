@@ -99,7 +99,7 @@ curl -X DELETE http://localhost:8000/items/<id>
 
 ```
 .
-├── crud_server.py   # Main application
+├── main.py   # Main application
 └── README.md
 ```
 
